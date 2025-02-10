@@ -58,7 +58,7 @@
       </div>
       <div class="nft-item">
         <!-- Image for second NFT -->
-        <img src="images/nft-image2.jpg" alt="NFT 2">
+        <img src="images/nft-image1.jpg" alt="NFT 2">
         <p>Never Give Up Hope: Financial Stability Guide</p>
         <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/100782291747232641963229273805244904868544924327059616559895021892049771168855" target="_blank">View on OpenSea</a>
         <p class="unlockable">Unlockable Content: Exclusive downloadable art print, an audio message from me about the meaning behind the artwork.</p>
