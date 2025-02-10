@@ -4,8 +4,14 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="description" content="Andrey Levushkin - Digital Artist & NFT Creator. Explore my unique NFT collection and reach out for inquiries.">
+  <meta name="keywords" content="Andrey Levushkin, NFT, Digital Art, Portfolio, Blockchain Art">
+  <meta property="og:title" content="Levushkin NFTs - Portfolio">
+  <meta property="og:description" content="Explore my unique NFT collection. Digital art powered by blockchain technology.">
+  <meta property="og:image" content="link_to_image.jpg">
   <title>Levushkin NFTs - Portfolio</title>
   <link rel="stylesheet" href="styles.css">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
 </head>
 <body>
   <!-- HEADER -->
@@ -53,6 +59,15 @@
     <div class="container">
       <h2>Contact</h2>
       <p>Interested in my work or have any questions? Feel free to reach out to me!</p>
+      
+      <!-- Contact Form -->
+      <form action="submit_form.php" method="POST" class="contact-form">
+        <input type="text" name="name" placeholder="Your Name" required>
+        <input type="email" name="email" placeholder="Your Email" required>
+        <textarea name="message" placeholder="Your Message" required></textarea>
+        <button type="submit">Send Message</button>
+      </form>
+      
       <ul>
         <li>Email: <a href="mailto:andrey@levushkinNFTs.com">andrey@levushkinNFTs.com</a></li>
         <li>Twitter: <a href="https://twitter.com/levushkinNFTs" target="_blank">@levushkinNFTs</a></li>
@@ -69,3 +84,4 @@
   <script src="script.js"></script>
 </body>
 </html>
+
