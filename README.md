@@ -35,11 +35,11 @@
     
     My Artistic Vision
     
-    Every NFT I create is a representation of the world as I see it—a balance of chaos, harmony, and growth. The use of blockchain not only ensures the authenticity of each piece but also provides my collectors with exclusive access to unlockable content, making each purchase even more valuable.
+   Every NFT I create is a representation of the world as I see it—a balance of chaos, harmony, and growth. The use of blockchain not only ensures the authenticity of each piece but also provides my collectors with exclusive access to unlockable content, making each purchase even more valuable.
     
-    Unlockable Content 🔒
-    
-    Each of my NFTs comes with a special feature—a layer of unlockable content. This exclusive content can include high-res images, behind-the-scenes creation videos, or even personal messages to the buyer. It’s a unique experience for every collector who holds my NFTs, making them more than just a piece of art, but a part of a shared journey.
+    Unlockable Content 
+  
+  Each of my NFTs comes with a special feature—a layer of unlockable content. This exclusive content can include high-res images, behind-the-scenes creation videos, or even personal messages to the buyer. It’s a unique experience for every collector who holds my NFTs, making them more than just a piece of art, but a part of a shared journey.
   </div>
 </section>
 
