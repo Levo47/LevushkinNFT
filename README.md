@@ -53,7 +53,7 @@
     <h2>My NFT Collection</h2>
     <div class="nft-items">
       <div class="nft-item">
-        <img src="images/EiffelTower" alt="NFT 1" width="100" height="50">
+        <img src="images/nft-image1.jpg" alt="NFT 1" width="100" height="50">
         <p>Next Generation: A Guide to Financial Success</p>
         <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/100782291747232641963229273805244904868544924327059616559895021881054654891095" target="_blank">View on OpenSea</a>
         <p class="unlockable">Unlockable Content: High-resolution image, personal message from the artist, and a behind-the-scenes video of the creative process.</p>
