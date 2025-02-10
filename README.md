@@ -34,7 +34,7 @@
     <p>I'm Andrey Levushkin, a digital artist, and NFT creator with a passion for blending modern art with blockchain technology. My journey into the world of NFTs began with a vision to create art that isn't just visually striking but also meaningful in the decentralized world. I combine traditional artistry with digital elements, creating a fusion that speaks to the present and future of art.</p>
     
     My Artistic Vision
-    Every NFT I create is a representation of the world as I see it—a balance of chaos, harmony, and growth. The use of blockchain not only ensures the authenticity of each piece but also provides my collectors with exclusive access to unlockable content, making each purchase even more valuable.</p>
+    Every NFT I create is a representation of the world as I see it—a balance of chaos, harmony, and growth. The use of blockchain not only ensures the authenticity of each piece but also provides my collectors with exclusive access to unlockable content, making each purchase even more valuable.
     
     Unlockable Content
     Each of my NFTs comes with a special feature—a layer of unlockable content. This exclusive content can include high-res images, behind-the-scenes creation videos, or even personal messages to the buyer. It’s a unique experience for every collector who holds my NFTs, making them more than just a piece of art, but a part of a shared journey.</p>
