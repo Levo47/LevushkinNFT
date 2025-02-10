@@ -54,7 +54,7 @@
     <div class="nft-items">
       <img src="images/project-folder/nft-image1.jpg
      <div class="nft-item">
-  <img src="images/nft-image1.jpg" alt="NFT 1">
+  <img src="images/NFT-image1.jpg" alt="NFT 1">
   <p>Next Generation: A Guide to Financial Success</p>
   <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/100782291747232641963229273805244904868544924327059616559895021881054654891095" target="_blank">View on OpenSea</a>
 </div>
