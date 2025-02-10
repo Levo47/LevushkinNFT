@@ -52,7 +52,9 @@
   <div class="container">
     <h2>My NFT Collection</h2>
     <div class="nft-items">
-      <img src="images/nft-image1.jpg" alt="NFT 1" width="300" height="200">
+      <img src="images/project-folder/
+└── images/
+    ├── "nft-image1.jpg" alt="NFT 1" width="300" height="200">
       <div class="nft-item">
         <img src="images/nft-image1.jpg" alt="NFT 1" width="300" height="200">
         <p>Next Generation: A Guide to Financial Success</p>
