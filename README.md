@@ -47,29 +47,27 @@
 
 
 
-  <!-- NFT GALLERY -->
+ <!-- NFT GALLERY -->
 <section id="nft-gallery">
   <div class="container">
     <h2>My NFT Collection</h2>
     <div class="nft-items">
-      <img src="images/project-folder/nft-image1.jpg>
-     <div class="nft-item">
-  <img src="images/NFT-image1.jpg" alt="NFT 1">
-  <p>Next Generation: A Guide to Financial Success</p>
-  <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/100782291747232641963229273805244904868544924327059616559895021881054654891095" target="_blank">View on OpenSea</a>
-</div>
-target="_blank">View on OpenSea</a>
-        <p class="unlockable">Unlockable Content: High-resolution image, personal message from the artist, and a behind-the-scenes video of the creative process.</p>
+      <div class="nft-item">
+        <!-- Путь к изображению в папке images -->
+        <img src="images/nft-image1.jpg" alt="NFT 1">
+        <p>Next Generation: A Guide to Financial Success</p>
+        <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/100782291747232641963229273805244904868544924327059616559895021881054654891095" target="_blank">View on OpenSea</a>
       </div>
       <div class="nft-item">
-        <img src="nft-image2.jpg" alt="NFT 2">
+        <!-- Путь ко второму изображению -->
+        <img src="images/nft-image2.jpg" alt="NFT 2">
         <p>Never Give Up Hope: Financial Stability Guide</p>
         <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/100782291747232641963229273805244904868544924327059616559895021892049771168855" target="_blank">View on OpenSea</a>
-        <p class="unlockable">Unlockable Content: Exclusive downloadable art print, an audio message from me about the meaning behind the artwork.</p>
       </div>
     </div>
   </div>
 </section>
+
 
 
   <!-- CONTACT SECTION -->
