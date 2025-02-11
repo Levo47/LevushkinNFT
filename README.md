@@ -190,6 +190,105 @@
 </section>
 
 
+<!-- COMMENTS SECTION -->
+<section id="comments">
+    <div class="container">
+        <h2>Leave a Comment</h2>
+        <p>We’d love to hear your thoughts! Feel free to leave a comment below.</p>
+
+        <!-- Comment Form -->
+        <form id="comment-form">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required>
+
+            <label for="comment">Your Comment:</label>
+            <textarea id="comment" name="comment" rows="4" required></textarea>
+
+            <button type="submit">Submit Comment</button>
+        </form>
+
+        <!-- Display Comments -->
+        <div id="comment-list">
+            <h3>Recent Comments</h3>
+            <ul id="comments-container">
+                <!-- Comments will be dynamically added here -->
+            </ul>
+        </div>
+    </div>
+</section>
+
+<script>
+document.getElementById("comment-form").addEventListener("submit", function(event) {
+    event.preventDefault();
+    
+    const name = document.getElementById("name").value;
+    const comment = document.getElementById("comment").value;
+    
+    if (name && comment) {
+        const commentList = document.getElementById("comments-container");
+        const newComment = document.createElement("li");
+        newComment.innerHTML = `<strong>${name}:</strong> ${comment}`;
+        commentList.appendChild(newComment);
+        
+        // Clear input fields
+        document.getElementById("name").value = "";
+        document.getElementById("comment").value = "";
+    }
+});
+</script>
+
+<style>
+/* Styling for Comments Section */
+#comments {
+    margin-top: 40px;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border-radius: 10px;
+}
+
+#comment-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+#comment-list {
+    margin-top: 20px;
+}
+
+#comments-container {
+    list-style-type: none;
+    padding: 0;
+}
+
+#comments-container li {
+    background: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+</style>
 
 
   <!-- CONTACT SECTION -->
