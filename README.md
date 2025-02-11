@@ -205,7 +205,7 @@
         <button type="submit">Send Message</button>
       </form> 
       <ul>
-        <li>Email: <a href="mailto:levka0091@gmail.com">andrey@levushkinNFTs.com</a></li>
+        <li>Email: <a href="mailto:levka0091@gmail.com">levka0091@gmail.com</a></li>
         <li>Twitter: <a href="https://twitter.com/levushkinNFTs" target="_blank">@levushkinNFTs</a></li>
         <li>Discord: <a href="https://discord.com/andreylevushkin" target="_blank">Andrey Levushkin's Discord</a></li>
       </ul>
