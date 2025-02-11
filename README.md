@@ -14,18 +14,22 @@
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
 </head>
 <body>
+
+
   <!-- HEADER -->
-  <header>
+<header>
     <div class="container">
-      <h1>Andrey Levushkin</h1>
-      <p>Digital Artist & NFT Creator</p>
-      <nav>
-        <a href="#about">About</a>
-        <a href="#nft-gallery">NFT Gallery</a>
-        <a href="#contact">Contact</a>
-      </nav>
+        <h1>Andrey Levushkin</h1>
+        <p>Digital Artist & NFT Creator</p>
+        <nav>
+            <a href="#about">About</a>
+            <a href="#nft-gallery">NFT Gallery</a>
+            <a href="#contact">Contact</a>
+            <a href="https://your-next-gen-books-page.com" target="_blank">Next Generation Books</a> <!-- New Tab Link -->
+        </nav>
     </div>
-  </header>
+</header>
+
 
 
 <!DOCTYPE html>
@@ -216,21 +220,6 @@
         </div>
     </div>
 </section>
-
-
-<!-- HEADER -->
-<header>
-    <div class="container">
-        <h1>Andrey Levushkin</h1>
-        <p>Digital Artist & NFT Creator</p>
-        <nav>
-            <a href="#about">About</a>
-            <a href="#nft-gallery">NFT Gallery</a>
-            <a href="#contact">Contact</a>
-            <a href="https://your-next-gen-books-page.com" target="_blank">Next Generation Books</a> <!-- New Tab Link -->
-        </nav>
-    </div>
-</header>
 
 
 <script>
