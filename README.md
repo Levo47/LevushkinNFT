@@ -217,6 +217,22 @@
     </div>
 </section>
 
+
+<!-- HEADER -->
+<header>
+    <div class="container">
+        <h1>Andrey Levushkin</h1>
+        <p>Digital Artist & NFT Creator</p>
+        <nav>
+            <a href="#about">About</a>
+            <a href="#nft-gallery">NFT Gallery</a>
+            <a href="#contact">Contact</a>
+            <a href="https://your-next-gen-books-page.com" target="_blank">Next Generation Books</a> <!-- New Tab Link -->
+        </nav>
+    </div>
+</header>
+
+
 <script>
 document.getElementById("comment-form").addEventListener("submit", function(event) {
     event.preventDefault();
