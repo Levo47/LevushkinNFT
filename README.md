@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -78,17 +78,15 @@
     <div class="container">
       <h2>Contact</h2>
       <p>Interested in my work or have any questions? Feel free to reach out to me!</p>
-      
       <!-- Contact Form -->
       <form action="submit_form.php" method="POST" class="contact-form">
         <input type="text" name="name" placeholder="Your Name" required>
         <input type="email" name="email" placeholder="Your Email" required>
         <textarea name="message" placeholder="Your Message" required></textarea>
         <button type="submit">Send Message</button>
-      </form>
-      
+      </form> 
       <ul>
-        <li>Email: <a href="mailto:andrey@levushkinNFTs.com">andrey@levushkinNFTs.com</a></li>
+        <li>Email: <a href="mailto:levka0091@gmail.com">andrey@levushkinNFTs.com</a></li>
         <li>Twitter: <a href="https://twitter.com/levushkinNFTs" target="_blank">@levushkinNFTs</a></li>
         <li>Discord: <a href="https://discord.com/andreylevushkin" target="_blank">Andrey Levushkin's Discord</a></li>
       </ul>
@@ -97,7 +95,7 @@
 
   <!-- FOOTER -->
   <footer>
-    <p>&copy; 2023 Andrey Levushkin | All Rights Reserved</p>
+    <p>&copy; 2022 Andrey Levushkin | All Rights Reserved</p>
   </footer>
 
   <script src="script.js"></script>
