@@ -1,0 +1,7 @@
+project-folder/
+├── index.html
+├── styles.css
+├── script.js
+└── images/
+    ├── nft-image1.jpg
+    ├── nft-image2.jpg
