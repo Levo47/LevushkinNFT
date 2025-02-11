@@ -35,27 +35,27 @@
     
     My Artistic Vision
     
-   Every NFT I create is a representation of the world as I see it—a balance of chaos, harmony, and growth. The use of blockchain not only ensures the authenticity of each piece but also provides my collectors with exclusive access to unlockable content, making each purchase even more valuable.
+   </p>Every NFT I create is a representation of the world as I see it—a balance of chaos, harmony, and growth. The use of blockchain not only ensures the authenticity of each piece but also provides my collectors with exclusive access to unlockable content, making each purchase even more valuable.</p>
     
     Unlockable Content 
   
-  Each of my NFTs comes with a special feature—a layer of unlockable content. This exclusive content can include high-res images, behind-the-scenes creation videos, or even personal messages to the buyer. It’s a unique experience for every collector who holds my NFTs, making them more than just a piece of art, but a part of a shared journey.
+  </p>Each of my NFTs comes with a special feature—a layer of unlockable content. This exclusive content can include high-res images, behind-the-scenes creation videos, or even personal messages to the buyer. It’s a unique experience for every collector who holds my NFTs, making them more than just a piece of art, but a part of a shared journey.</p>
 
  
   
-  Why Should You Invest in Next-Generation Books?
-Investing in next-generation books—especially in digital, NFT-based, or AI-enhanced formats—can be a profitable and forward-thinking decision. Here’s why:
+  </p>Why Should You Invest in Next-Generation Books?
+Investing in next-generation books—especially in digital, NFT-based, or AI-enhanced formats—can be a profitable and forward-thinking decision. Here’s why:</p>
 
 
-1. The Future of Publishing is Digital & Decentralized
+    </p>1. The Future of Publishing is Digital & Decentralized</p>
 
- 📖 Traditional books are evolving into NFTs, interactive eBooks, and AI-generated storytelling.
+ </p>📖 Traditional books are evolving into NFTs, interactive eBooks, and AI-generated storytelling.</p>
 
-  🌍 Blockchain technology ensures authenticity, rarity, and ownership verification.
+  </p>🌍 Blockchain technology ensures authenticity, rarity, and ownership verification.</p>
 
    💰 Resale & royalties: NFT books allow authors and investors to earn passive income through secondary market resales.
  
-    👉 Example: An NFT book could grant exclusive access to an author's future works, special editions, or even live discussions.
+   👉 Example: An NFT book could grant exclusive access to an author's future works, special editions, or even live discussions.
 
 
 2. Limited-Edition Books Increase in Value
