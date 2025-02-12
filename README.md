@@ -626,59 +626,19 @@
  
 
 
-
 <!-- CONTACT SECTION -->
 <section id="contact">
   <div class="container">
-    <h2>Contact</h2>
-    <p>Interested in my work or have any questions? Feel free to reach out to me!</p>
-    <form action="submit_form.php" method="POST" class="contact-form">
-      <input type="text" name="name" placeholder="Your Name" required>
-      <input type="email" name="email" placeholder="Your Email" required>
-      <textarea name="message" placeholder="Your Message" required></textarea>
-      <button type="submit">Send Message</button>
+    <h2></h2>
     </form> 
     <ul>
       <li>Email: <a href="mailto:levka0091@gmail.com">levka0091@gmail.com</a></li>
-      <li>Twitter: <a href="https://twitter.com/levushkinNFTs" target="_blank">@levushkinNFTs</a></li>
-      <li>Discord: <a href="https://discord.com/andreylevushkin" target="_blank">Andrey Levushkin's Discord</a></li>
+      <li>Instagram: <a href="https://www.instagram.com/andrey_levushkin/" target="_blank">@andrey_levushkin</a></li>
+      <li>Telegram: <a href="https://t.me/levushkinAndrey" target="_blank">@levushkinAndrey</a></li>
     </ul>
   </div>
 </section>
 
-<?php
-if ($_SERVER["REQUEST_METHOD"] == "POST") {
-    // Sanitize input data to prevent XSS or other vulnerabilities
-    $name = htmlspecialchars(trim($_POST["name"]));
-    $email = htmlspecialchars(trim($_POST["email"]));
-    $message = htmlspecialchars(trim($_POST["message"]));
-
-    // Set the recipient email address (your email)
-    $to = "levka0091@gmail.com";
-    
-    // Set the email subject
-    $subject = "Message from $name";
-
-    // Construct the email body
-    $email_body = "Name: $name\n";
-    $email_body .= "Email: $email\n\n";
-    $email_body .= "Message:\n$message\n";
-
-    // Set headers for the email
-    $headers = "From: $email\r\n";
-    $headers .= "Reply-To: $email\r\n";
-    $headers .= "Content-Type: text/plain; charset=UTF-8\r\n";
-
-    // Send the email using the mail() function
-    if (mail($to, $subject, $email_body, $headers)) {
-        echo "success";  // Success message to be handled in the JavaScript
-    } else {
-        echo "error";  // Error message if the email fails to send
-    }
-} else {
-    echo "error";  // Error if the form is not submitted correctly
-}
-?>
 
 
   <!-- FOOTER -->
