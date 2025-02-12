@@ -465,7 +465,7 @@
        style="width: 300px; border-radius: 10px; box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.4);">
 </div>
   <p>“USA”</p>
-        <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/59504699225704685389362227968250830728831028033868499256789113012756223623169/"_blank">View on OpenSea</a>
+       <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/59504699225704685389362227968250830728831028033868499256789113012756223623169/" target="_blank">View on OpenSea</a>
       </div>
     </div>
   </div>
