@@ -11,13 +11,22 @@
   <!-- Language Selector (Top Right Corner) -->
   <div id="google_translate_element"></div>
 
-  <!-- HEADER -->
-  <header>
+
+<!-- HEADER -->
+<header>
     <div class="container">
-      <h1>Next Generation Investment Group</h1>
-      <p>Your Future, Our Investment</p>
-      <nav>
+        <h1>Next Generation Investment Group</h1>
+        <p>Your Future, Our Investment</p>
+        <nav>
+            <a href="#about">About</a>
+            <a href="#nft-gallery">NFT Gallery</a>
+            <a href="#contact">Contact</a>
+            <a href="https://your-next-gen-books-page.com" target="_blank">Next Generation Books</a> <!-- Opens in New Tab -->
+        </nav>
     </div>
+</header>
+
+
   </header>
 
   <!-- JavaScript for Google Translate -->
@@ -360,94 +369,3 @@ button:hover {
   <script src="script.js"></script>
 </body>
 </html>
-
-
-
-
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Next Generation Investment Group</title>
-  <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-  <!-- HEADER -->
-  <header>
-    <div class="container">
-      <h1>Next Generation Investment Group</h1>
-      <p>Invest in the Future – BTC, NFT Books & Smart Strategies</p>
-      <nav>
-        <a href="#about">About</a>
-        <a href="#nft-gallery">NFT Gallery</a>
-        <a href="#contact">Contact</a>
-        <a href="#why-join">Why Join Us?</a>
-      </nav>
-    </div>
-  </header>
-
-  <!-- ABOUT US SECTION -->
-  <section id="about">
-    <div class="container">
-      <h2>About Next Generation Investment Group</h2>
-      <p>We focus on smart investments in BTC, next-generation books, and NFT assets using a non-leverage strategy to ensure steady and sustainable growth.</p>
-    </div>
-  </section>
-
-  <!-- NFT GALLERY -->
-  <section id="nft-gallery">
-    <div class="container">
-      <h2>My NFT Collection</h2>
-      <div class="nft-items">
-        <div class="nft-item">
-          <img src="nft-image1.jpg" alt="NFT 1">
-          <p>Next Generation: A Guide to Financial Success</p>
-          <a href="https://opensea.io/assets/ethereum/..." target="_blank">View on OpenSea</a>
-        </div>
-        <div class="nft-item">
-          <img src="nft-image2.jpg" alt="NFT 2">
-          <p>Never Give Up Hope: Financial Stability Guide</p>
-          <a href="https://opensea.io/assets/ethereum/..." target="_blank">View on OpenSea</a>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- CONTACT SECTION -->
-  <section id="contact">
-    <div class="container">
-      <h2>Contact Us</h2>
-      <p>Have questions? Get in touch with us!</p>
-      <ul>
-        <li>Email: <a href="mailto:info@nextgeninvest.com">info@nextgeninvest.com</a></li>
-        <li>Twitter: <a href="https://twitter.com/nextgeninvest" target="_blank">@nextgeninvest</a></li>
-      </ul>
-    </div>
-  </section>
-
-  <!-- WHY JOIN US -->
-  <section id="why-join">
-    <div class="container">
-      <h2>Why Join Us?</h2>
-      <ul>
-        <li><strong>🚀 Smart Investing:</strong> We focus on BTC, NFT books, and AI-powered assets.</li>
-        <li><strong>📚 Free Books:</strong> Top 10 investors receive free books every 3 months!</li>
-        <li><strong>💎 NFT Rewards:</strong> Earn dividends in the form of free NFTs every quarter.</li>
-      </ul>
-    </div>
-  </section>
-
-  <!-- FOOTER -->
-  <footer>
-    <p>&copy; 2024 Next Generation Investment Group | All Rights Reserved</p>
-  </footer>
-
-</body>
-</html>
-
-
-
