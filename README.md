@@ -296,8 +296,11 @@
         <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/100782291747232641963229273805244904868544924327059616559895021881054654891095" target="_blank">View on OpenSea</a>
       </div>
       <div class="nft-item">
-        <!-- Путь ко второму изображению -->
-        <img src="images/nft-image2.jpg" alt="NFT 2">
+         <div class="nft-item">
+        <div style="display: inline-block; padding: 10px; background: linear-gradient(to right, #ff6600, #ffcc00); border-radius: 15px;">
+  <img src="nft-image2.jpg" alt="NFT"
+       style="width: 300px; border-radius: 10px; box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.4);">
+</div>
         <p>Never Give Up Hope: Financial Stability Guide</p>
         <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/100782291747232641963229273805244904868544924327059616559895021892049771168855" target="_blank">View on OpenSea</a>
       </div>
