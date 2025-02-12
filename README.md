@@ -325,3 +325,44 @@ button:hover {
 </body>
 </html>
 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Next Generation Investment Group</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- Language Selector (Top Right Corner) -->
+  <div id="google_translate_element"></div>
+
+  <!-- HEADER -->
+  <header>
+    <div class="container">
+      <h1>Next Generation Investment Group</h1>
+      <p>Your Future, Our Investment</p>
+      <nav>
+        <a href="#about">About Us</a>
+        <a href="#investment-opportunities">Investment Opportunities</a>
+        <a href="#contact">Contact</a>
+        <a href="#blog">Blog</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- JavaScript for Google Translate -->
+  <script type="text/javascript">
+    function googleTranslateElementInit() {
+      new google.translate.TranslateElement(
+        { pageLanguage: 'en', includedLanguages: 'es,fr,de,ru,zh', layout: google.translate.TranslateElement.InlineLayout.SIMPLE },
+        'google_translate_element'
+      );
+    }
+  </script>
+  <script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+</body>
+</html>
