@@ -54,7 +54,7 @@
   <meta property="og:title" content="Levushkin NFTs - Portfolio">
   <meta property="og:description" content="Explore my unique NFT collection. Digital art powered by blockchain technology.">
   <meta property="og:image" content="link_to_image.jpg">
-  <title>Levushkin NFTs - Portfolio</title>
+  <title>Next Generation - Portfolio</title>
   <link rel="stylesheet" href="styles.css">
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
 </head>
