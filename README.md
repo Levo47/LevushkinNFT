@@ -403,9 +403,7 @@ button:hover {
 
 
 
-Here's the updated code with the changes you requested. I've removed the emojis and changed the name to "Next Generation Investment Group."
 
-```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -651,11 +649,5 @@ Here's the updated code with the changes you requested. I've removed the emojis 
     <script src="script.js"></script>
 </body>
 </html>
-```
-
-Changes made:
-- Removed all emojis throughout the document.
-- Updated all mentions of "Andrey Levushkin" and "Levushkin NFTs" to "Next Generation Investment Group."
-
 
 
