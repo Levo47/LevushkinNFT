@@ -61,7 +61,7 @@
 <body>
 
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -72,7 +72,7 @@
 <body>
 
 
-    <!-- HEADER -->
+   
     <header>
         <div class="container">
             <h1>Andrey Levushkin</h1>
