@@ -78,7 +78,7 @@
             <h1>Andrey Levushkin</h1>
             <p>Digital Artist & NFT Creator</p>
         </div>
-    </header>
+    
 
     <!-- ABOUT SECTION -->
     <section id="about">
