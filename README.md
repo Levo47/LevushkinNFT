@@ -623,8 +623,7 @@
         <p>Ready to benefit from unlockable NFTs? Explore our collection now:</p>
         <ul>
             <li><a href="https://opensea.io/LevushkinAndreyVyacheslavovich" target="_blank">Levushkin Andrey Collection</a></li>
-    </div>
-</section>
+ 
 
 
 
@@ -633,7 +632,29 @@
     <div class="container">
       <h2>Contact</h2>
       <p>Interested in my work or have any questions? Feel free to reach out to me!</p>
-      <!-- Contact Form -->
+      <script>
+document.querySelector(".contact-form").addEventListener("submit", function(event) {
+    event.preventDefault(); // Prevent default form submission
+
+    let formData = new FormData(this);
+
+    fetch("submit_form.php", {
+        method: "POST",
+        body: formData
+    })
+    .then(response => response.text())
+    .then(data => {
+        if (data === "success") {
+            alert("Your message has been sent!");
+            document.querySelector(".contact-form").reset(); // Clear form
+        } else {
+            alert("There was an error. Please try again.");
+        }
+    })
+    .catch(error => console.error("Error:", error));
+});
+</script>
+>
       <form action="submit_form.php" method="POST" class="contact-form">
         <input type="text" name="name" placeholder="Your Name" required>
         <input type="email" name="email" placeholder="Your Email" required>
