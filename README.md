@@ -304,8 +304,7 @@
             <li>Opportunities to stake NFTs for passive income.</li>
         </ul>
         <p>Join the future of digital ownership today!</p>
-    </div>
-</section>
+    
 
 
 
