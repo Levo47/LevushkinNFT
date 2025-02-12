@@ -221,6 +221,58 @@
 </html>
 
 
+<!-- GET STARTED SECTION -->
+<section id="get-started">
+    <div class="container">
+        <h2>How to Get Started with Us</h2>
+        <p>Follow these simple steps to set up your wallet and start investing in exclusive NFTs and digital assets.</p>
+
+        <h3>Step 1: Set Up a Crypto Wallet</h3>
+        <p>To buy and store NFTs, you need a crypto wallet. We recommend using:</p>
+        <ul>
+            <li><a href="https://metamask.io/" target="_blank">MetaMask</a> (Browser Extension & Mobile App)</li>
+            <li><a href="https://trustwallet.com/" target="_blank">Trust Wallet</a> (Mobile App)</li>
+            <li><a href="https://www.coinbase.com/wallet" target="_blank">Coinbase Wallet</a></li>
+        </ul>
+        <p><strong>How to Install MetaMask:</strong></p>
+        <ol>
+            <li>Go to <a href="https://metamask.io/" target="_blank">MetaMask</a> and click "Download".</li>
+            <li>Install the extension for your browser or the mobile app.</li>
+            <li>Create a new wallet and securely store your recovery phrase.</li>
+            <li>Add Binance Smart Chain (BSC) or Ethereum Network in wallet settings.</li>
+        </ol>
+
+        <h3>Step 2: Fund Your Wallet</h3>
+        <p>To buy NFTs, you need cryptocurrency. You can buy crypto from:</p>
+        <ul>
+            <li><a href="https://www.binance.com/" target="_blank">Binance</a></li>
+            <li><a href="https://www.coinbase.com/" target="_blank">Coinbase</a></li>
+            <li><a href="https://www.kraken.com/" target="_blank">Kraken</a></li>
+        </ul>
+        <p>Once you purchase crypto (ETH or BNB), transfer it to your wallet address.</p>
+
+        <h3>Step 3: Connect to an NFT Marketplace</h3>
+        <p>Now, you can browse and buy exclusive NFTs from our collections:</p>
+        <ul>
+            <li><a href="https://opensea.io/JennerKendall" target="_blank">Jenner Kendall Collection</a></li>
+            <li><a href="https://opensea.io/LevushkinAndreyVyacheslavovich" target="_blank">Levushkin Andrey Vyacheslavovich Collection</a></li>
+            <li><a href="https://opensea.io/Tailgatee" target="_blank">Tailgatee Collection</a></li>
+        </ul>
+        <p>To buy an NFT, connect your wallet to OpenSea and complete your purchase.</p>
+
+        <h3>Step 4: Start Investing & Earning</h3>
+        <p>By holding our NFTs, you gain access to:</p>
+        <ul>
+            <li>Exclusive digital content & unlockable rewards.</li>
+            <li>Royalties from resale transactions.</li>
+            <li>Opportunities to stake NFTs for passive income.</li>
+        </ul>
+        <p>Join the future of digital ownership today!</p>
+    </div>
+</section>
+
+
+
  <!-- NFT GALLERY -->
 <section id="nft-gallery">
   <div class="container">
