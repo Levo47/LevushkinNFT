@@ -93,8 +93,7 @@
         <p>If you have a specific NFT collection in mind, feel free to share details, and I can dive deeper into its concept!</p>
     </div>
 
-</body>
-</html>
+
 
         </div>
     
