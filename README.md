@@ -17,11 +17,6 @@
       <h1>Next Generation Investment Group</h1>
       <p>Your Future, Our Investment</p>
       <nav>
-        <a href="#about">About Us</a>
-        <a href="#investment-opportunities">Investment Opportunities</a>
-        <a href="#contact">Contact</a>
-        <a href="#blog">Blog</a>
-      </nav>
     </div>
   </header>
 
