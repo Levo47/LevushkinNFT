@@ -124,7 +124,20 @@
             <li><a href="https://opensea.io/LevushkinAndreyVyacheslavovich" target="_blank">Levushkin Andrey Vyacheslavovich Collection</a></li>
             <li><a href="https://opensea.io/Tailgatee" target="_blank">Tailgatee Collection</a></li>
         </ul>
+<li><a href="https://opensea.io/StroyK">StroyK Collection</a></li>
+        </ul>
+<li><a href="https://opensea.io/ToCold" ToCold="_blank">Tailgatee Collection</a></li>
+        </ul>
+<li><a href="https://opensea.io/MikeTysonGerard" MikeTysonGerard="_blank">Tailgatee Collection</a></li>
+        </ul>
+<li><a href="https://opensea.io/JaGood" JaGood="_blank">Tailgatee Collection</a></li>
+        </ul>
+<li><a href="https://opensea.io/MustafaSandall" MustafaSandall="_blank">Tailgatee Collection</a></li>
+        </ul>
+        <li><a href="https://opensea.io/Hapku-Do" Hapku-Do="_blank">Tailgatee Collection</a></li>
+        </ul>
 
+        
         <p>Unlock the future of digital ownership today. Invest in an NFT that offers more than just visual appeal—it comes with real, **exclusive benefits**.</p>
     </div>
 </section>
