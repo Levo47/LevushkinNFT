@@ -121,21 +121,22 @@
         <p>Discover and invest in our unique NFT collections on OpenSea:</p>
         <ul>
             <li><a href="https://opensea.io/JennerKendall" target="_blank">Jenner Kendall Collection</a></li>
+            
             <li><a href="https://opensea.io/LevushkinAndreyVyacheslavovich" target="_blank">Levushkin Andrey Vyacheslavovich Collection</a></li>
             <li><a href="https://opensea.io/Tailgatee" target="_blank">Tailgatee Collection</a></li>
-        </ul>
-<li><a href="https://opensea.io/StroyK">StroyK Collection</a></li>
-        </ul>
-<li><a href="https://opensea.io/ToCold" ToCold="_blank">Tailgatee Collection</a></li>
-        </ul>
-<li><a href="https://opensea.io/MikeTysonGerard" MikeTysonGerard="_blank">Tailgatee Collection</a></li>
-        </ul>
-<li><a href="https://opensea.io/JaGood" JaGood="_blank">Tailgatee Collection</a></li>
-        </ul>
-<li><a href="https://opensea.io/MustafaSandall" MustafaSandall="_blank">Tailgatee Collection</a></li>
-        </ul>
-        <li><a href="https://opensea.io/Hapku-Do" Hapku-Do="_blank">Tailgatee Collection</a></li>
-        </ul>
+       
+            <li><a href="https://opensea.io/StroyK">StroyK Collection</a></li>
+      
+            <li><a href="https://opensea.io/ToCold">ToCold Collection</a></li>
+      
+            <li><a href="https://opensea.io/MikeTysonGerard">MikeTysonGerard Collection</a></li>
+        
+            <li><a href="https://opensea.io/JaGood" JaGood=">JaGood Collection</a></li>
+    
+            <li><a href="https://opensea.io/MustafaSandall" MustafaSandall=">MustafaSandall Collection</a></li>
+       
+            <li><a href="https://opensea.io/Hapku-Do" Hapku-Do="_>Hapku-Do Collection</a></li>
+       
 
         
         <p>Unlock the future of digital ownership today. Invest in an NFT that offers more than just visual appeal—it comes with real, **exclusive benefits**.</p>
