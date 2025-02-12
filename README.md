@@ -211,16 +211,6 @@
 </section>
 
 
-
-    <!-- FOOTER -->
-    <footer>
-        <p>&copy; 2024 Andrey Levushkin | All Rights Reserved</p>
-    </footer>
-
-</body>
-</html>
-
-
 <!-- GET STARTED SECTION -->
 <section id="get-started">
     <div class="container">
