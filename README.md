@@ -136,6 +136,8 @@
             <li><a href="https://opensea.io/MustafaSandall">MustafaSandall Collection</a></li>
        
             <li><a href="https://opensea.io/Hapku-Do">Hapku-Do Collection</a></li>
+
+            <li><a https://opensea.io/BrickHeadsc</a></li>
        
 
         
@@ -275,6 +277,8 @@
              <li><a href="https://opensea.io/Hapku-Do">Hapku-Do Collection</a></li>
        
         </ul>
+
+              <li><a https://opensea.io/BrickHeadsc</a></li>
         <p>To buy an NFT, connect your wallet to OpenSea and complete your purchase.</p>
 
         <p><strong>How to Trade P2P:</strong></p>
