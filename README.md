@@ -543,6 +543,24 @@
     <div class="nft-items">
       <div class="nft-item">
         <div style="display: inline-block; padding: 10px; background: linear-gradient(to right, #ff6600, #ffcc00); border-radius: 15px;">
+  <img src="nft-image31.jpg" alt="NFT"
+       style="width: 300px; border-radius: 10px; box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.4);">
+</div>
+  <p>“Switzerland”</p>
+        <a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/31380740989087185115935912523040005008143984001746597795450580331903540264961/" target="_blank">View on OpenSea</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+<section id="nft-gallery">
+  <div class="container">
+    <h2></h2>
+    <div class="nft-items">
+      <div class="nft-item">
+        <div style="display: inline-block; padding: 10px; background: linear-gradient(to right, #ff6600, #ffcc00); border-radius: 15px;">
   <img src="nft-image8.jpg" alt="NFT"
        style="width: 300px; border-radius: 10px; box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.4);">
 </div>
