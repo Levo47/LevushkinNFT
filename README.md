@@ -476,3 +476,348 @@ button:hover {
   <script src="script.js"></script>
 </body>
 </html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Real Estate and Investment Platform</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <h1>Welcome to Our Investment Platform</h1>
+        <nav>
+            <a href="#real-estate-investment">Real Estate</a>
+            <a href="#book-investment">Book Investment</a>
+            <a href="#nft-gallery">NFT Gallery</a>
+            <a href="#comments">Comments</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <!-- Real Estate Investment Section -->
+    <section id="real-estate-investment">
+        <div class="container">
+            <h2>Real Estate Investment</h2>
+            <p>Invest in premium real estate properties. Grow your wealth with high-value, strategic properties.</p>
+            <button>Get Started</button>
+        </div>
+    </section>
+
+    <!-- Book Investment Section -->
+    <section id="book-investment">
+        <div class="container">
+            <h2>Book Investment</h2>
+            <p>Explore various books on finance, real estate, and NFTs that can guide you to successful investments.</p>
+            <button>Explore Books</button>
+        </div>
+    </section>
+
+    <!-- NFT Gallery Section -->
+    <section id="nft-gallery">
+        <h2>Our NFT Collection</h2>
+        <div class="nft-items">
+            <div class="nft-item">
+                <img src="nft1.jpg" alt="NFT 1">
+                <a href="#">View NFT</a>
+            </div>
+            <div class="nft-item">
+                <img src="nft2.jpg" alt="NFT 2">
+                <a href="#">View NFT</a>
+            </div>
+            <div class="nft-item">
+                <img src="nft3.jpg" alt="NFT 3">
+                <a href="#">View NFT</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Comments Section -->
+    <section id="comments">
+        <div class="container">
+            <h2>Leave Your Comment</h2>
+            <form id="comment-form">
+                <label for="name">Your Name:</label>
+                <input type="text" id="name" name="name" required>
+
+                <label for="comment">Your Comment:</label>
+                <textarea id="comment" name="comment" required></textarea>
+
+                <button type="submit">Submit Comment</button>
+            </form>
+            <ul id="comments-container">
+                <li><strong>John Doe:</strong> This platform has amazing investment opportunities!</li>
+                <li><strong>Jane Smith:</strong> I’ve already started investing in real estate here!</li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <form>
+            <label for="email">Your Email:</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="message">Your Message:</label>
+            <textarea id="message" name="message" required></textarea>
+
+            <button type="submit">Send Message</button>
+        </form>
+    </section>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; 2025 Real Estate & Investment Platform. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
+
+
+/* Global Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    line-height: 1.6;
+}
+
+h1, h2, h3 {
+    color: #2c3e50;
+}
+
+a {
+    text-decoration: none;
+    color: #2c3e50;
+}
+
+a:hover {
+    color: #ff6600;
+}
+
+/* Header Styles */
+header {
+    background-color: #2c3e50;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 2.5rem;
+}
+
+header nav {
+    margin-top: 20px;
+}
+
+header nav a {
+    margin: 0 15px;
+    font-size: 1.1rem;
+    color: white;
+    transition: color 0.3s;
+}
+
+header nav a:hover {
+    color: #ff6600;
+}
+
+/* Section Styles */
+section {
+    padding: 60px 20px;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+p {
+    font-size: 1.1rem;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+button {
+    background-color: #ff6600;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    display: block;
+    margin: 0 auto;
+    font-size: 1.1rem;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #ffcc00;
+}
+
+/* Real Estate and Book Investment Section */
+#real-estate-investment, #book-investment {
+    background-color: #eaf0f4;
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+#real-estate-investment p, #book-investment p {
+    text-align: left;
+}
+
+/* NFT Gallery Section */
+#nft-gallery {
+    background-color: #ffffff;
+    padding: 50px 20px;
+    text-align: center;
+}
+
+.nft-items {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.nft-item {
+    width: 30%;
+    margin-bottom: 20px;
+}
+
+.nft-item img {
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+.nft-item a {
+    display: block;
+    margin-top: 10px;
+    font-size: 1.1rem;
+    color: #ff6600;
+    text-align: center;
+}
+
+.nft-item a:hover {
+    color: #ffcc00;
+}
+
+/* Comment Section */
+#comments {
+    background-color: #f7f7f7;
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+#comment-form label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+}
+
+#comment-form input,
+#comment-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+#comment-form button {
+    background-color: #ff6600;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 1.1rem;
+}
+
+#comment-form button:hover {
+    background-color: #ffcc00;
+}
+
+#comments-container li {
+    padding: 10px;
+    margin: 10px 0;
+    background-color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1);
+}
+
+#comments-container li strong {
+    color: #2c3e50;
+}
+
+/* Contact Section */
+#contact {
+    background-color: #eaf0f4;
+    padding: 50px 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+#contact form {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+#contact form input,
+#contact form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+#contact form button {
+    background-color: #ff6600;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 25px;
+    font-size: 1.1rem;
+    cursor: pointer;
+}
+
+#contact form button:hover {
+    background-color: #ffcc00;
+}
+
+/* Footer */
+footer {
+    background-color: #2c3e50;
+    color: white;
+    padding: 15px 0;
+    text-align: center;
+    font-size: 1rem;
+}
+
+footer p {
+    margin: 0;
+}
+
