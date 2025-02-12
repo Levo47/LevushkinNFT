@@ -1,6 +1,52 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Next Generation Investment Group</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <!-- ВСТАВЛЯЕМ НОВЫЙ HEADER ЗДЕСЬ -->
+    <header>
+        <h1>Next Generation Investment Group</h1>
+
+        <!-- Бургер-меню -->
+        <div class="burger-menu" onclick="toggleMenu()">
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+
+        <!-- Навигация -->
+        <nav id="nav-menu">
+            <a href="#about">About</a>
+            <a href="#nft-gallery">NFT Gallery</a>
+            <a href="#contact">Contact</a>
+            <a href="https://your-next-gen-books-page.com" target="_blank">Next Generation Books</a>
+        </nav>
+    </header>
+
+    <!-- Дальше остальной код сайта -->
+    <section id="about">
+        <h2>About Us</h2>
+        <p>Мы - инвестиционная группа будущего!</p>
+    </section>
+
+    <script>
+        function toggleMenu() {
+            document.getElementById("nav-menu").classList.toggle("active");
+        }
+    </script>
+
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Next Generation Investment Group</title>
@@ -59,22 +105,6 @@
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
 </head>
 <body>
-
-
-  <!-- HEADER -->
-<header>
-    <div class="container">
-        <h1>Andrey Levushkin</h1>
-        <p>Digital Artist & NFT Creator</p>
-        <nav>
-            <a href="#about">About</a>
-            <a href="#nft-gallery">NFT Gallery</a>
-            <a href="#contact">Contact</a>
-            <a href="https://your-next-gen-books-page.com" target="_blank">Next Generation Books</a> <!-- New Tab Link -->
-        </nav>
-    </div>
-</header>
-
 
 
 <!DOCTYPE html>
