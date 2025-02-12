@@ -131,11 +131,11 @@
       
             <li><a href="https://opensea.io/MikeTysonGerard">MikeTysonGerard Collection</a></li>
         
-            <li><a href="https://opensea.io/JaGood" JaGood=">JaGood Collection</a></li>
+            <li><a href="https://opensea.io/JaGood">JaGood Collection</a></li>
     
-            <li><a href="https://opensea.io/MustafaSandall" MustafaSandall=">MustafaSandall Collection</a></li>
+            <li><a href="https://opensea.io/MustafaSandall">MustafaSandall Collection</a></li>
        
-            <li><a href="https://opensea.io/Hapku-Do" Hapku-Do="_>Hapku-Do Collection</a></li>
+            <li><a href="https://opensea.io/Hapku-Do">Hapku-Do Collection</a></li>
        
 
         
