@@ -24,7 +24,7 @@
             <a href="https://your-next-gen-books-page.com" target="_blank">Next Generation Books</a> <!-- Opens in New Tab -->
         </nav>
     </div>
-</header>
+
 
 
   </header>
