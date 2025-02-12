@@ -237,7 +237,7 @@
         <ul>
             <li><a href="https://www.binance.com/" target="_blank">Binance</a></li>
             <li><a href="https://www.coinbase.com/" target="_blank">Coinbase</a></li>
-            <li><a href="https://www.kraken.com/" target="_blank">Kraken</a></li>
+            <li><a href="https://www.bybit.com/invite?ref=NL6ZN7" target="_blank">ByBit</a></li>
         </ul>
         <p>Once you purchase crypto (ETH or BNB), transfer it to your wallet address.</p>
 
