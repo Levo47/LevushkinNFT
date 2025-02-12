@@ -471,9 +471,8 @@ button:hover {
     <p>&copy; 2022 Andrey Levushkin | All Rights Reserved</p>
   </footer>
 
-  <script src="script.js"></script>
-</body>
-</html>.  
+ 
+
 
 
 
