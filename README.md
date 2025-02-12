@@ -664,11 +664,45 @@
     <div class="nft-items">
       <div class="nft-item">
         <div style="display: inline-block; padding: 10px; background: linear-gradient(to right, #ff6600, #ffcc00); border-radius: 15px;">
+  <img src="nft-image50.jpg" alt="NFT"
+       style="width: 300px; border-radius: 10px; box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.4);">
+</div>
+  <p>“This is me !”</p>
+        <a href="https://opensea.io/assets/matic/0xe53fee12be051a45bc28296f7bce5ea199a48eba/8/" target="_blank">View on OpenSea</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section id="nft-gallery">
+  <div class="container">
+    <h2></h2>
+    <div class="nft-items">
+      <div class="nft-item">
+        <div style="display: inline-block; padding: 10px; background: linear-gradient(to right, #ff6600, #ffcc00); border-radius: 15px;">
   <img src="nft-image9.jpg" alt="NFT"
        style="width: 300px; border-radius: 10px; box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.4);">
 </div>
   <p>“Ship”</p>
         <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/31380740989087185115935912523040005008143984001746597795450580440755191414785/" target="_blank">View on OpenSea</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section id="nft-gallery">
+  <div class="container">
+    <h2></h2>
+    <div class="nft-items">
+      <div class="nft-item">
+        <div style="display: inline-block; padding: 10px; background: linear-gradient(to right, #ff6600, #ffcc00); border-radius: 15px;">
+  <img src="nft-image50.jpg" alt="NFT"
+       style="width: 300px; border-radius: 10px; box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.4);">
+</div>
+  <p>“Golden Gates”</p>
+        <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/91775483070528057166775215885800191664849308017105384806622015955500563169281/" target="_blank">View on OpenSea</a>
       </div>
     </div>
   </div>
