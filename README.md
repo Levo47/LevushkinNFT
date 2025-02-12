@@ -630,7 +630,6 @@
 <section id="contact">
   <div class="container">
     <h2></h2>
-    </form> 
     <ul>
       <li>Email: <a href="mailto:levka0091@gmail.com">levka0091@gmail.com</a></li>
       <li>Instagram: <a href="https://www.instagram.com/andrey_levushkin/" target="_blank">@andrey_levushkin</a></li>
