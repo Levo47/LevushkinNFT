@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -298,6 +296,109 @@
     </div>
 </section>
 
+
+<script>
+document.getElementById("comment-form").addEventListener("submit", function(event) {
+    event.preventDefault();
+    
+    const name = document.getElementById("name").value;
+    const comment = document.getElementById("comment").value;
+    
+    if (name && comment) {
+        const commentList = document.getElementById("comments-container");
+        const newComment = document.createElement("li");
+        newComment.innerHTML = <strong>${name}:</strong> ${comment};
+        commentList.appendChild(newComment);
+        
+        // Clear input fields
+        document.getElementById("name").value = "";
+        document.getElementById("comment").value = "";
+    }
+});
+</script>
+
+<style>
+/* Styling for Comments Section */
+#comments {
+    margin-top: 40px;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border-radius: 10px;
+}
+
+#comment-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+#comment-list {
+    margin-top: 20px;
+}
+
+#comments-container {
+    list-style-type: none;
+    padding: 0;
+}
+
+#comments-container li {
+    background: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+</style>
+
+
+  <!-- CONTACT SECTION -->
+  <section id="contact">
+    <div class="container">
+      <h2>Contact</h2>
+      <p>Interested in my work or have any questions? Feel free to reach out to me!</p>
+      <!-- Contact Form -->
+      <form action="submit_form.php" method="POST" class="contact-form">
+        <input type="text" name="name" placeholder="Your Name" required>
+        <input type="email" name="email" placeholder="Your Email" required>
+        <textarea name="message" placeholder="Your Message" required></textarea>
+        <button type="submit">Send Message</button>
+      </form> 
+      <ul>
+        <li>Email: <a href="mailto:levka0091@gmail.com">levka0091@gmail.com</a></li>
+        <li>Twitter: <a href="https://twitter.com/levushkinNFTs" target="_blank">@levushkinNFTs</a></li>
+        <li>Discord: <a href="https://discord.com/andreylevushkin" target="_blank">Andrey Levushkin's Discord</a></li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <p>&copy; 2022 Andrey Levushkin | All Rights Reserved</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>.  
 
 
 
