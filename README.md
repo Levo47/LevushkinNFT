@@ -476,7 +476,7 @@
     <div class="nft-items">
       <div class="nft-item">
         <div style="display: inline-block; padding: 10px; background: linear-gradient(to right, #ff6600, #ffcc00); border-radius: 15px;">
-  <img src="nft-image27.jpg" alt="NFT"
+  <img src="nft-image29.jpg" alt="NFT"
        style="width: 300px; border-radius: 10px; box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.4);">
 </div>
   <p>“United States Capitol”</p>
@@ -492,7 +492,7 @@
     <div class="nft-items">
       <div class="nft-item">
         <div style="display: inline-block; padding: 10px; background: linear-gradient(to right, #ff6600, #ffcc00); border-radius: 15px;">
-  <img src="nft-image27.jpg" alt="NFT"
+  <img src="nft-image28.jpg" alt="NFT"
        style="width: 300px; border-radius: 10px; box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.4);">
 </div>
   <p>“875 N Michigan Ave (formerly the John Hancock Center)”</p>
