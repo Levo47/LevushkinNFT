@@ -373,6 +373,16 @@
       </div>
     </div>
   </div>
+
+  <div class="nft-item">
+        <div class="nft-box">
+          <img src="nft-image4.jpg" alt="NFT 3">
+        </div>
+        <p>“Golden Skull”</p>
+        <a href="https://opensea.io" target="_blank">View on OpenSea</a>
+      </div>
+    </div>
+  </div>
 </section>
 
 <style>
