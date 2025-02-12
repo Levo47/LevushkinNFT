@@ -1,74 +1,75 @@
-import { useState } from "react";
-import { Menu } from "lucide-react";
-import { Card, CardContent } from "@/components/ui/card";
-import { Button } from "@/components/ui/button";
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Next Generation Group</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
 
-export default function Home() {
-  const [menuOpen, setMenuOpen] = useState(false);
+    <!-- HEADER -->
+    <header>
+        <div class="container">
+            <h1>Next Generation Group</h1>
+            <p>Your Future, Our Investment</p>
+            <nav>
+                <a href="#about">About Us</a>
+                <a href="#real-estate-investment">Real Estate Investment</a>
+                <a href="#book-investment">Book Investment</a>
+                <a href="#contact">Contact</a>
+            </nav>
+        </div>
+    </header>
 
-  return (
-    <div className="min-h-screen bg-gray-100">
-      {/* Header */}
-      <header className="flex justify-between items-center p-4 bg-white shadow-md">
-        <h1 className="text-xl font-bold">Next Generation Group</h1>
-        <button className="p-2" onClick={() => setMenuOpen(!menuOpen)}>
-          <Menu size={24} />
-        </button>
-      </header>
+    <!-- SECTION: About Us -->
+    <section id="about">
+        <div class="container">
+            <h2>About Us</h2>
+            <p>At Next Generation Group, we focus on long-term investments in real estate and books, providing exclusive opportunities for those seeking reliable returns. Our goal is to help investors maximize their wealth by offering carefully selected, high-potential assets.</p>
+        </div>
+    </section>
 
-      {/* Mobile Menu */}
-      {menuOpen && (
-        <nav className="bg-white shadow-md p-4">
-          <ul className="space-y-2">
-            <li><a href="#" className="block text-gray-700">Главная</a></li>
-            <li><a href="#" className="block text-gray-700">О нас</a></li>
-            <li><a href="#" className="block text-gray-700">Инвестирование в недвижимость</a></li>
-            <li><a href="#" className="block text-gray-700">Контакты</a></li>
-          </ul>
-        </nav>
-      )}
+    <!-- SECTION: Real Estate Investment -->
+    <section id="real-estate-investment">
+        <div class="container">
+            <h2>Real Estate Investment</h2>
+            <p>Real estate is one of the most stable and profitable investment avenues. Our firm offers exclusive real estate investment opportunities with high growth potential. We help our clients secure and manage properties that promise substantial returns over time.</p>
+            <button>Learn More</button>
+        </div>
+    </section>
 
-      {/* Main Content */}
-      <main className="p-4 space-y-6">
-        {/* Section: Инвестирование в книги */}
-        <Card>
-          <CardContent className="p-4">
-            <h2 className="text-lg font-semibold mb-2">Инвестирование в книги</h2>
-            <p className="text-gray-700">
-              В Next Generation мы видим в книгах не только источник знаний, но и возможность для долгосрочных инвестиций.
-              Уникальные и редкие издания могут со временем значительно увеличиться в цене. Мы помогаем нашим клиентам 
-              находить ценные экземпляры и инвестировать в них с умом.
-            </p>
-            <Button className="mt-4">Узнать больше</Button>
-          </CardContent>
-        </Card>
+    <!-- SECTION: Book Investment -->
+    <section id="book-investment">
+        <div class="container">
+            <h2>Book Investment</h2>
+            <p>Books are not just a source of knowledge, but also valuable assets. Next Generation Group specializes in investing in rare and unique editions, which over time increase in value. We assist our clients in identifying books with significant investment potential.</p>
+            <button>Learn More</button>
+        </div>
+    </section>
 
-        {/* Section: Инвестирование в недвижимость */}
-        <Card>
-          <CardContent className="p-4">
-            <h2 className="text-lg font-semibold mb-2">Инвестирование в недвижимость</h2>
-            <p className="text-gray-700">
-              Недвижимость — один из самых надежных способов вложений. В Next Generation мы предлагаем нашим клиентам 
-              эксклюзивные инвестиционные проекты с высоким потенциалом роста стоимости.
-            </p>
-            <Button className="mt-4">Подробнее</Button>
-          </CardContent>
-        </Card>
+    <!-- SECTION: Contact -->
+    <section id="contact">
+        <div class="container">
+            <h2>Contact Us</h2>
+            <p>If you're interested in learning more about our investment opportunities or want to discuss how we can help you grow your portfolio, feel free to reach out to us!</p>
+            <form action="submit_form.php" method="POST">
+                <input type="text" name="name" placeholder="Your Name" required>
+                <input type="email" name="email" placeholder="Your Email" required>
+                <textarea name="message" placeholder="Your Message" required></textarea>
+                <button type="submit">Send Message</button>
+            </form>
+        </div>
+    </section>
 
-        {/* Section: Контакты */}
-        <Card>
-          <CardContent className="p-4">
-            <h2 className="text-lg font-semibold mb-2">Контакты</h2>
-            <p className="text-gray-700">
-              Свяжитесь с нами, чтобы узнать больше о возможностях инвестирования и наших предложениях.
-            </p>
-            <Button className="mt-4">Связаться</Button>
-          </CardContent>
-        </Card>
-      </main>
-    </div>
-  );
-}
+    <!-- FOOTER -->
+    <footer>
+        <p>&copy; 2025 Next Generation Group | All Rights Reserved</p>
+    </footer>
+
+</body>
+</html>
+
 
 
 
