@@ -1,3 +1,79 @@
+import { useState } from "react";
+import { Menu } from "lucide-react";
+import { Card, CardContent } from "@/components/ui/card";
+import { Button } from "@/components/ui/button";
+
+export default function Home() {
+  const [menuOpen, setMenuOpen] = useState(false);
+
+  return (
+    <div className="min-h-screen bg-gray-100">
+      {/* Header */}
+      <header className="flex justify-between items-center p-4 bg-white shadow-md">
+        <h1 className="text-xl font-bold">Next Generation Group</h1>
+        <button className="p-2" onClick={() => setMenuOpen(!menuOpen)}>
+          <Menu size={24} />
+        </button>
+      </header>
+
+      {/* Mobile Menu */}
+      {menuOpen && (
+        <nav className="bg-white shadow-md p-4">
+          <ul className="space-y-2">
+            <li><a href="#" className="block text-gray-700">Главная</a></li>
+            <li><a href="#" className="block text-gray-700">О нас</a></li>
+            <li><a href="#" className="block text-gray-700">Инвестирование в недвижимость</a></li>
+            <li><a href="#" className="block text-gray-700">Контакты</a></li>
+          </ul>
+        </nav>
+      )}
+
+      {/* Main Content */}
+      <main className="p-4 space-y-6">
+        {/* Section: Инвестирование в книги */}
+        <Card>
+          <CardContent className="p-4">
+            <h2 className="text-lg font-semibold mb-2">Инвестирование в книги</h2>
+            <p className="text-gray-700">
+              В Next Generation мы видим в книгах не только источник знаний, но и возможность для долгосрочных инвестиций.
+              Уникальные и редкие издания могут со временем значительно увеличиться в цене. Мы помогаем нашим клиентам 
+              находить ценные экземпляры и инвестировать в них с умом.
+            </p>
+            <Button className="mt-4">Узнать больше</Button>
+          </CardContent>
+        </Card>
+
+        {/* Section: Инвестирование в недвижимость */}
+        <Card>
+          <CardContent className="p-4">
+            <h2 className="text-lg font-semibold mb-2">Инвестирование в недвижимость</h2>
+            <p className="text-gray-700">
+              Недвижимость — один из самых надежных способов вложений. В Next Generation мы предлагаем нашим клиентам 
+              эксклюзивные инвестиционные проекты с высоким потенциалом роста стоимости.
+            </p>
+            <Button className="mt-4">Подробнее</Button>
+          </CardContent>
+        </Card>
+
+        {/* Section: Контакты */}
+        <Card>
+          <CardContent className="p-4">
+            <h2 className="text-lg font-semibold mb-2">Контакты</h2>
+            <p className="text-gray-700">
+              Свяжитесь с нами, чтобы узнать больше о возможностях инвестирования и наших предложениях.
+            </p>
+            <Button className="mt-4">Связаться</Button>
+          </CardContent>
+        </Card>
+      </main>
+    </div>
+  );
+}
+
+
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
