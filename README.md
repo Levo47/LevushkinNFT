@@ -386,6 +386,25 @@
   </div>
 </section>
 
+
+
+<section id="nft-gallery">
+  <div class="container">
+    <h2></h2>
+    <div class="nft-items">
+      <div class="nft-item">
+        <div style="display: inline-block; padding: 10px; background: linear-gradient(to right, #ff6600, #ffcc00); border-radius: 15px;">
+  <img src="nft-image34.jpg" alt="NFT"
+       style="width: 300px; border-radius: 10px; box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.4);">
+</div>
+  <p>“🪙”</p>
+        <a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/59504699225704685389362227968250830728831028033868499256789113012756223624167/" target="_blank">View on OpenSea</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
 <section id="nft-gallery">
   <div class="container">
     <h2></h2>
@@ -554,6 +573,23 @@
 </section>
 
 
+<section id="nft-gallery">
+  <div class="container">
+    <h2></h2>
+    <div class="nft-items">
+      <div class="nft-item">
+        <div style="display: inline-block; padding: 10px; background: linear-gradient(to right, #ff6600, #ffcc00); border-radius: 15px;">
+  <img src="nft-image32.jpg" alt="NFT"
+       style="width: 300px; border-radius: 10px; box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.4);">
+</div>
+  <p>“Silver Coins”</p>
+        <a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/59504699225704685389362227968250830728831028033868499256789113011656712095391/" target="_blank">View on OpenSea</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
 
 <section id="nft-gallery">
   <div class="container">
@@ -612,6 +648,22 @@
     <div class="nft-items">
       <div class="nft-item">
         <div style="display: inline-block; padding: 10px; background: linear-gradient(to right, #ff6600, #ffcc00); border-radius: 15px;">
+  <img src="nft-image35.jpg" alt="NFT"
+       style="width: 300px; border-radius: 10px; box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.4);">
+</div>
+  <p>“Gold coins”</p>
+        <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/59504699225704685389362227968250830728831028033868499256789113221663432950102/" target="_blank">View on OpenSea</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="nft-gallery">
+  <div class="container">
+    <h2></h2>
+    <div class="nft-items">
+      <div class="nft-item">
+        <div style="display: inline-block; padding: 10px; background: linear-gradient(to right, #ff6600, #ffcc00); border-radius: 15px;">
   <img src="nft-image25.jpg" alt="NFT"
        style="width: 300px; border-radius: 10px; box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.4);">
 </div>
@@ -650,6 +702,23 @@
 </div>
   <p>“10X”</p>
         <a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/6391311083767696706713078133338739597420264063527889527264414247717263376431/" target="_blank">View on OpenSea</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section id="nft-gallery">
+  <div class="container">
+    <h2></h2>
+    <div class="nft-items">
+      <div class="nft-item">
+        <div style="display: inline-block; padding: 10px; background: linear-gradient(to right, #ff6600, #ffcc00); border-radius: 15px;">
+  <img src="nft-image33.jpg" alt="NFT"
+       style="width: 300px; border-radius: 10px; box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.4);">
+</div>
+  <p>“Silver Coins”</p>
+        <a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/59504699225704685389362227968250830728831028033868499256789113010557200467615/" target="_blank">View on OpenSea</a>
       </div>
     </div>
   </div>
@@ -717,6 +786,23 @@
 </div>
   <p>“Burj Khalifa”</p>
         <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/100782291747232641963229273805244904868544924327059616559895022334053445533697/" target="_blank">View on OpenSea</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section id="nft-gallery">
+  <div class="container">
+    <h2></h2>
+    <div class="nft-items">
+      <div class="nft-item">
+        <div style="display: inline-block; padding: 10px; background: linear-gradient(to right, #ff6600, #ffcc00); border-radius: 15px;">
+  <img src="nft-image36.jpg" alt="NFT"
+       style="width: 300px; border-radius: 10px; box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.4);">
+</div>
+  <p>“🐩”</p>
+        <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/59504699225704685389362227968250830728831028033868499256789113260146339872837/" target="_blank">View on OpenSea</a>
       </div>
     </div>
   </div>
