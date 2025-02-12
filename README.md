@@ -252,7 +252,7 @@
 
         <p><strong>How to Trade P2P:</strong></p>
         <ol>
-            <li>Find a trusted buyer or seller in our <a href="https://t.me/TD_Banks" target="_blank">Contac me on Telegram</a>.</li>
+            <li>Find a trusted buyer or seller in our <a href="https://t.me/levushkinAndrey" target="_blank">Contac me on Telegram</a>.</li>
             <li>Use a smart contract or escrow service for safe transactions.</li>
             <li>Agree on the price and confirm the trade through your wallet.</li>
         </ol>
