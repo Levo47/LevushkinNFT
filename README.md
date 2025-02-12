@@ -344,6 +344,86 @@
 </section>
 
 
+<section id="nft-gallery">
+  <div class="container">
+    <h2>Exclusive NFT Gallery</h2>
+    <div class="nft-slider">
+      <div class="nft-item">
+        <div class="nft-box">
+          <img src="nft-image1.jpg" alt="NFT 1">
+        </div>
+        <p>“G-Wagon”</p>
+        <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/100782291747232641963229273805244904868544924327059616559895021892049771168855/" target="_blank">View on OpenSea</a>
+      </div>
+
+      <div class="nft-item">
+        <div class="nft-box">
+          <img src="nft-image2.jpg" alt="NFT 2">
+        </div>
+        <p>“Crypto Beast”</p>
+        <a href="https://opensea.io" target="_blank">View on OpenSea</a>
+      </div>
+
+      <div class="nft-item">
+        <div class="nft-box">
+          <img src="nft-image3.jpg" alt="NFT 3">
+        </div>
+        <p>“Golden Skull”</p>
+        <a href="https://opensea.io" target="_blank">View on OpenSea</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+  .container {
+    max-width: 1000px;
+    margin: auto;
+    text-align: center;
+  }
+
+  .nft-slider {
+    display: flex;
+    overflow-x: auto;
+    gap: 15px;
+    padding: 10px;
+    scroll-behavior: smooth;
+  }
+
+  .nft-slider::-webkit-scrollbar {
+    display: none; /* Hide scrollbar */
+  }
+
+  .nft-item {
+    flex: 0 0 auto;
+    width: 300px;
+    text-align: center;
+  }
+
+  .nft-box {
+    padding: 10px;
+    background: linear-gradient(to right, #ff6600, #ffcc00);
+    border-radius: 15px;
+    display: inline-block;
+  }
+
+  .nft-box img {
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.4);
+  }
+
+  a {
+    display: block;
+    margin-top: 5px;
+    text-decoration: none;
+    color: #ff6600;
+    font-weight: bold;
+  }
+</style>
+
+
+
 <!-- COMMENTS SECTION -->
 <section id="comments">
     <div class="container">
