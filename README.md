@@ -100,15 +100,35 @@
         </div>
     </section>
 
-    <!-- UNLOCKABLE CONTENT -->
-    <section id="unlockable">
-        <div class="container">
-            <h2>Unlockable Content</h2>
-            <p>Each of my NFTs comes with a special feature—a layer of unlockable content. 
-            This exclusive content can include high-resolution images, behind-the-scenes creation videos, or even personal messages to the buyer. 
-            It’s a unique experience for every collector who holds my NFTs, making them more than just a piece of art, but a part of a shared journey.</p>
-        </div>
-    </section>
+  
+   <!-- UNLOCKABLE CONTENT -->
+<section id="unlockable">
+    <div class="container">
+        <h2>Unlock Exclusive NFT Content</h2>
+        <p>Investing in our NFTs goes beyond digital ownership—each piece includes **unlockable content** that provides a deeper, more immersive experience. 
+        This special content is accessible only to NFT holders and can include:</p>
+
+        <ul>
+            <li>High-resolution artwork and concept sketches.</li>
+            <li>Behind-the-scenes creation videos and artist commentary.</li>
+            <li>Exclusive personal messages or signed digital certificates.</li>
+            <li>Bonus digital assets, such as additional artwork, music, or hidden features.</li>
+        </ul>
+
+        <p>Owning one of our NFTs means you're not just acquiring a collectible—you’re gaining access to **exclusive perks and content** that enhance the value of your investment.</p>
+
+        <h3>Explore Our Collections</h3>
+        <p>Discover and invest in our unique NFT collections on OpenSea:</p>
+        <ul>
+            <li><a href="https://opensea.io/JennerKendall" target="_blank">Jenner Kendall Collection</a></li>
+            <li><a href="https://opensea.io/LevushkinAndreyVyacheslavovich" target="_blank">Levushkin Andrey Vyacheslavovich Collection</a></li>
+            <li><a href="https://opensea.io/Tailgatee" target="_blank">Tailgatee Collection</a></li>
+        </ul>
+
+        <p>Unlock the future of digital ownership today. Invest in an NFT that offers more than just visual appeal—it comes with real, **exclusive benefits**.</p>
+    </div>
+</section>
+
 
 
     <!-- NEXT GENERATION COIN SECTION -->
