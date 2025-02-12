@@ -250,6 +250,25 @@
         </ul>
         <p>To buy an NFT, connect your wallet to OpenSea and complete your purchase.</p>
 
+        <p><strong>How to Trade P2P:</strong></p>
+        <ol>
+            <li>Find a trusted buyer or seller in our <a href="https://t.me/lev_47" target="_blank">Discord community</a>.</li>
+            <li>Use a smart contract or escrow service for safe transactions.</li>
+            <li>Agree on the price and confirm the trade through your wallet.</li>
+        </ol>
+        <p>P2P trading gives you full control over your assets and potential profit.</p>
+
+        <h3>Step 5: Start Earning with NFTs</h3>
+        <p>By holding our NFTs, you unlock:</p>
+        <ul>
+            <li>Exclusive digital content & unlockable rewards.</li>
+            <li>Royalties from resale transactions.</li>
+            <li>Opportunities to stake NFTs for passive income.</li>
+        </ul>
+        <p>Join the future of digital ownership today!</p>
+    </div>
+</section>
+
         <h3>Step 4: Start Investing & Earning</h3>
         <p>By holding our NFTs, you gain access to:</p>
         <ul>
