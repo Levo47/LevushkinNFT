@@ -252,13 +252,13 @@
 
         <p><strong>How to Trade P2P:</strong></p>
         <ol>
-            <li>Find a trusted buyer or seller in our <a href="https://t.me/lev_47" target="_blank">Discord community</a>.</li>
+            <li>Find a trusted buyer or seller in our <a href="https://t.me/TD_Banks" target="_blank">Contac me on Telegram</a>.</li>
             <li>Use a smart contract or escrow service for safe transactions.</li>
             <li>Agree on the price and confirm the trade through your wallet.</li>
         </ol>
         <p>P2P trading gives you full control over your assets and potential profit.</p>
 
-        <h3>Step 5: Start Earning with NFTs</h3>
+        <h3>Step 4: Start Earning with NFTs</h3>
         <p>By holding our NFTs, you unlock:</p>
         <ul>
             <li>Exclusive digital content & unlockable rewards.</li>
@@ -269,7 +269,7 @@
     </div>
 </section>
 
-        <h3>Step 4: Start Investing & Earning</h3>
+        <h3>Step 5: Start Investing & Earning</h3>
         <p>By holding our NFTs, you gain access to:</p>
         <ul>
             <li>Exclusive digital content & unlockable rewards.</li>
