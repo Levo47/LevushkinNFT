@@ -1716,6 +1716,16 @@
     <p>&copy; 2022 Andrey Levushkin | All Rights Reserved</p>
   </footer>
 
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BBZYJC74FW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-BBZYJC74FW');
+</script>
  
 
 
