@@ -396,11 +396,11 @@
     <div class="nft-items">
       <div class="nft-item">
         <div style="display: inline-block; padding: 10px; background: linear-gradient(to right, #ff6600, #ffcc00); border-radius: 15px;">
-  <img src="nft-image4.jpg" alt="NFT"
+  <img src="nft-image57.jpg" alt="NFT"
        style="width: 300px; border-radius: 10px; box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.4);">
 </div>
-  <p>“G-Wagon”</p>
-        <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/100782291747232641963229273805244904868544924327059616559895021892049771168855/" target="_blank">View on OpenSea</a>
+  <p>“Earth”</p>
+        <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/111091691572410479027261683849172229110621282895288383611315321181485792231427/" target="_blank">View on OpenSea</a>
       </div>
     </div>
   </div>
@@ -423,6 +423,22 @@
   </div>
 </section>
 
+
+<section id="nft-gallery">
+  <div class="container">
+    <h2></h2>
+    <div class="nft-items">
+      <div class="nft-item">
+        <div style="display: inline-block; padding: 10px; background: linear-gradient(to right, #ff6600, #ffcc00); border-radius: 15px;">
+  <img src="nft-image54.jpg" alt="NFT"
+       style="width: 300px; border-radius: 10px; box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.4);">
+</div>
+  <p>“СПАРТАК”</p>
+  <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/31380740989087185115935912523040005008143984001746597795450580398973749559297/" target="_blank">View on OpenSea</a>
+      </div>
+    </div>
+  </div>
+</section>
 
 
 <section id="nft-gallery">
@@ -465,11 +481,11 @@
     <div class="nft-items">
       <div class="nft-item">
         <div style="display: inline-block; padding: 10px; background: linear-gradient(to right, #ff6600, #ffcc00); border-radius: 15px;">
-  <img src="nft-image6.jpg" alt="NFT"
+  <img src="nft-image55.jpg" alt="NFT"
        style="width: 300px; border-radius: 10px; box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.4);">
 </div>
-  <p>“ALFA ROMEO”</p>
-        <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/31380740989087185115935912523040005008143984001746597795450580434158121648130/" target="_blank">View on OpenSea</a>
+  <p>“Arctic”</p>
+        <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/6391311083767696706713078133338739597420264063527889527264414389554263359489/" target="_blank">View on OpenSea</a>
       </div>
     </div>
   </div>
@@ -498,11 +514,11 @@
     <div class="nft-items">
       <div class="nft-item">
         <div style="display: inline-block; padding: 10px; background: linear-gradient(to right, #ff6600, #ffcc00); border-radius: 15px;">
-  <img src="nft-image7.jpg" alt="NFT"
+  <img src="nft-image59.jpg" alt="NFT"
        style="width: 300px; border-radius: 10px; box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.4);">
 </div>
-  <p>“BMW M3 Coupe 1980”</p>
-        <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/31380740989087185115935912523040005008143984001746597795450580383580586770434/" target="_blank">View on OpenSea</a>
+  <p>“Ukrain”</p>
+        <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/59504699225704685389362227968250830728831028033868499256789113126005921284097/" target="_blank">View on OpenSea</a>
       </div>
     </div>
   </div>
@@ -643,6 +659,24 @@
   </div>
 </section>
 
+
+<section id="nft-gallery">
+  <div class="container">
+    <h2></h2>
+    <div class="nft-items">
+      <div class="nft-item">
+        <div style="display: inline-block; padding: 10px; background: linear-gradient(to right, #ff6600, #ffcc00); border-radius: 15px;">
+  <img src="nft-image54.jpg" alt="NFT"
+       style="width: 300px; border-radius: 10px; box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.4);">
+</div>
+  <p>“Pittsburgh Steelers”</p>
+        <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/104556826287786986040855689239009177338801616011810709677119024741424295837697/" target="_blank">View on OpenSea</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
 <section id="nft-gallery">
   <div class="container">
     <h2></h2>
@@ -706,6 +740,23 @@
 </div>
   <p>“This is me !”</p>
         <a href="https://opensea.io/assets/matic/0xe53fee12be051a45bc28296f7bce5ea199a48eba/8/" target="_blank">View on OpenSea</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section id="nft-gallery">
+  <div class="container">
+    <h2></h2>
+    <div class="nft-items">
+      <div class="nft-item">
+        <div style="display: inline-block; padding: 10px; background: linear-gradient(to right, #ff6600, #ffcc00); border-radius: 15px;">
+  <img src="nft-image60.jpg" alt="NFT"
+       style="width: 300px; border-radius: 10px; box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.4);">
+</div>
+  <p>“Ape”</p>
+        <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/59504699225704685389362227968250830728831028033868499256789113020452805017601/" target="_blank">View on OpenSea</a>
       </div>
     </div>
   </div>
@@ -830,17 +881,18 @@
   </div>
 </section>
 
+
 <section id="nft-gallery">
   <div class="container">
     <h2></h2>
     <div class="nft-items">
       <div class="nft-item">
         <div style="display: inline-block; padding: 10px; background: linear-gradient(to right, #ff6600, #ffcc00); border-radius: 15px;">
-  <img src="nft-image11.jpg" alt="NFT"
+  <img src="nft-image58.jpg" alt="NFT"
        style="width: 300px; border-radius: 10px; box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.4);">
 </div>
-  <p>“206.2”</p>
-        <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/6391311083767696706713078133338739597420264063527889527264414292797240115201/" target="_blank">View on OpenSea</a>
+  <p>“101011101011”</p>
+        <a href="https://opensea.io/assets/ethereum/0x410be7df9a08d5c24e45579692e8a323f28d4913/1/" target="_blank">View on OpenSea</a>
       </div>
     </div>
   </div>
@@ -1038,11 +1090,45 @@
     <div class="nft-items">
       <div class="nft-item">
         <div style="display: inline-block; padding: 10px; background: linear-gradient(to right, #ff6600, #ffcc00); border-radius: 15px;">
+  <img src="nft-image56.jpg" alt="NFT"
+       style="width: 300px; border-radius: 10px; box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.4);">
+</div>
+  <p>“G-Wagon 6x6 Amg”</p>
+        <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75519733618304296855578221943523409658140484639423646347431476976592560848897/" target="_blank">View on OpenSea</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section id="nft-gallery">
+  <div class="container">
+    <h2></h2>
+    <div class="nft-items">
+      <div class="nft-item">
+        <div style="display: inline-block; padding: 10px; background: linear-gradient(to right, #ff6600, #ffcc00); border-radius: 15px;">
   <img src="nft-image26.jpg" alt="NFT"
        style="width: 300px; border-radius: 10px; box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.4);">
 </div>
   <p>“Kamaz”</p>
         <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75519733618304296855578221943523409658140484639423646347431476969995491082241/" target="_blank">View on OpenSea</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section id="nft-gallery">
+  <div class="container">
+    <h2></h2>
+    <div class="nft-items">
+      <div class="nft-item">
+        <div style="display: inline-block; padding: 10px; background: linear-gradient(to right, #ff6600, #ffcc00); border-radius: 15px;">
+  <img src="nft-image4.jpg" alt="NFT"
+       style="width: 300px; border-radius: 10px; box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.4);">
+</div>
+  <p>“G-Wagon”</p>
+        <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/100782291747232641963229273805244904868544924327059616559895021892049771168855/" target="_blank">View on OpenSea</a>
       </div>
     </div>
   </div>
@@ -1106,11 +1192,62 @@
     <div class="nft-items">
       <div class="nft-item">
         <div style="display: inline-block; padding: 10px; background: linear-gradient(to right, #ff6600, #ffcc00); border-radius: 15px;">
+  <img src="nft-image7.jpg" alt="NFT"
+       style="width: 300px; border-radius: 10px; box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.4);">
+</div>
+  <p>“BMW M3 Coupe 1980”</p>
+        <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/31380740989087185115935912523040005008143984001746597795450580383580586770434/" target="_blank">View on OpenSea</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section id="nft-gallery">
+  <div class="container">
+    <h2></h2>
+    <div class="nft-items">
+      <div class="nft-item">
+        <div style="display: inline-block; padding: 10px; background: linear-gradient(to right, #ff6600, #ffcc00); border-radius: 15px;">
   <img src="nft-image40.jpg" alt="NFT"
        style="width: 300px; border-radius: 10px; box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.4);">
 </div>
   <p>“912 Porshe”</p>
         <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75519733618304296855578221943523409658140484639423646347431476997483281776641/" target="_blank">View on OpenSea</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section id="nft-gallery">
+  <div class="container">
+    <h2></h2>
+    <div class="nft-items">
+      <div class="nft-item">
+        <div style="display: inline-block; padding: 10px; background: linear-gradient(to right, #ff6600, #ffcc00); border-radius: 15px;">
+  <img src="nft-image11.jpg" alt="NFT"
+       style="width: 300px; border-radius: 10px; box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.4);">
+</div>
+  <p>“206.2”</p>
+        <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/6391311083767696706713078133338739597420264063527889527264414292797240115201/" target="_blank">View on OpenSea</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section id="nft-gallery">
+  <div class="container">
+    <h2></h2>
+    <div class="nft-items">
+      <div class="nft-item">
+        <div style="display: inline-block; padding: 10px; background: linear-gradient(to right, #ff6600, #ffcc00); border-radius: 15px;">
+  <img src="nft-image6.jpg" alt="NFT"
+       style="width: 300px; border-radius: 10px; box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.4);">
+</div>
+  <p>“ALFA ROMEO”</p>
+        <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/31380740989087185115935912523040005008143984001746597795450580434158121648130/" target="_blank">View on OpenSea</a>
       </div>
     </div>
   </div>
