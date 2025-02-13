@@ -396,11 +396,11 @@
     <div class="nft-items">
       <div class="nft-item">
         <div style="display: inline-block; padding: 10px; background: linear-gradient(to right, #ff6600, #ffcc00); border-radius: 15px;">
-  <img src="nft-image57.jpg" alt="NFT"
+  <img src="nft-image61.jpg" alt="NFT"
        style="width: 300px; border-radius: 10px; box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.4);">
 </div>
-  <p>"Новое Поколение"<\p>
-        <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/100782291747232641963229273805244904868544924327059616559895021879955143263319/" target="_blank">View on OpenSea</a>
+  <p>“Новое Поколение”</p>
+  <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/100782291747232641963229273805244904868544924327059616559895021879955143263319/" target="_blank">View on OpenSea</a>
       </div>
     </div>
   </div>
@@ -413,11 +413,11 @@
     <div class="nft-items">
       <div class="nft-item">
         <div style="display: inline-block; padding: 10px; background: linear-gradient(to right, #ff6600, #ffcc00); border-radius: 15px;">
-  <img src="nft-image20.jpg" alt="NFT"
+  <img src="nft-image62.jpg" alt="NFT"
        style="width: 300px; border-radius: 10px; box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.4);">
 </div>
-  <p>“РОССИЯ”</p>
-  <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/100782291747232641963229273805244904868544924327059616559895022128444771139585/" target="_blank">View on OpenSea</a>
+  <p>“「Next Generation: 現代における資産形成と将来の経済的安定を実現するための包括的ガイド」”</p>
+  <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/100782291747232641963229273805244904868544924327059616559895021886552213029975/" target="_blank">View on OpenSea</a>
       </div>
     </div>
   </div>
@@ -430,11 +430,11 @@
     <div class="nft-items">
       <div class="nft-item">
         <div style="display: inline-block; padding: 10px; background: linear-gradient(to right, #ff6600, #ffcc00); border-radius: 15px;">
-  <img src="nft-image20.jpg" alt="NFT"
+  <img src="nft-image63.jpg" alt="NFT"
        style="width: 300px; border-radius: 10px; box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.4);">
 </div>
-  <p>“РОССИЯ”</p>
-  <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/100782291747232641963229273805244904868544924327059616559895022128444771139585/" target="_blank">View on OpenSea</a>
+  <p>“"Next Generation: धन निर्माण और वित्तीय भविष्य सुरक्षित करने के लिए एक व्यापक गाइड।"”</p>
+  <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/100782291747232641963229273805244904868544924327059616559895021894248794424407/" target="_blank">View on OpenSea</a>
       </div>
     </div>
   </div>
@@ -447,11 +447,11 @@
     <div class="nft-items">
       <div class="nft-item">
         <div style="display: inline-block; padding: 10px; background: linear-gradient(to right, #ff6600, #ffcc00); border-radius: 15px;">
-  <img src="nft-image20.jpg" alt="NFT"
+  <img src="nft-image64.jpg" alt="NFT"
        style="width: 300px; border-radius: 10px; box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.4);">
 </div>
-  <p>“РОССИЯ”</p>
-  <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/100782291747232641963229273805244904868544924327059616559895022128444771139585/" target="_blank">View on OpenSea</a>
+  <p>“"Ново поколение: Обширно ръководство за създаване финансова стабилност в днешния свят".”</p>
+  <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/100782291747232641963229273805244904868544924327059616559895021887651724657751/" target="_blank">View on OpenSea</a>
       </div>
     </div>
   </div>
@@ -464,11 +464,11 @@
     <div class="nft-items">
       <div class="nft-item">
         <div style="display: inline-block; padding: 10px; background: linear-gradient(to right, #ff6600, #ffcc00); border-radius: 15px;">
-  <img src="nft-image20.jpg" alt="NFT"
+  <img src="nft-image65.jpg" alt="NFT"
        style="width: 300px; border-radius: 10px; box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.4);">
 </div>
-  <p>“РОССИЯ”</p>
-  <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/100782291747232641963229273805244904868544924327059616559895022128444771139585/" target="_blank">View on OpenSea</a>
+  <p>“La próxima generación: Una guía completa para construir riqueza y asegurar tu futuro financiero.”</p>
+  <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/100782291747232641963229273805244904868544924327059616559895021882154166518871/" target="_blank">View on OpenSea</a>
       </div>
     </div>
   </div>
@@ -481,11 +481,11 @@
     <div class="nft-items">
       <div class="nft-item">
         <div style="display: inline-block; padding: 10px; background: linear-gradient(to right, #ff6600, #ffcc00); border-radius: 15px;">
-  <img src="nft-image20.jpg" alt="NFT"
+  <img src="nft-image66.jpg" alt="NFT"
        style="width: 300px; border-radius: 10px; box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.4);">
 </div>
-  <p>“РОССИЯ”</p>
-  <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/100782291747232641963229273805244904868544924327059616559895022128444771139585/" target="_blank">View on OpenSea</a>
+  <p>“"Sikl Yu Neva Si: A Komprinshif Gaid fi Reech Fiyananshal Stiebiliti ina di Modan Wurl."”</p>
+  <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/100782291747232641963229273805244904868544924327059616559895021889850747913304/" target="_blank">View on OpenSea</a>
       </div>
     </div>
   </div>
