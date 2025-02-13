@@ -1717,15 +1717,15 @@
   </footer>
 
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=10264829790"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BBZYJC74FW"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', 'YOUR_TRACKING_ID');
-</script>
 
- 
+  gtag('config', 'G-BBZYJC74FW');
+</script>
 
 
 
