@@ -348,7 +348,7 @@
 
 <section id="nft-gallery">
   <div class="container">
-    <h2>My NFT Collection</h2>
+    <h2></h2>
     <div class="nft-items">
       <div class="nft-item">
         <div style="display: inline-block; padding: 10px; background: linear-gradient(to right, #ff6600, #ffcc00); border-radius: 15px;">
